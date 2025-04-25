@@ -1,2 +1,1 @@
-# ew-pet-gallery
-the pet gallery
+# 宠物图库网站
